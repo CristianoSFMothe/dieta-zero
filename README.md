@@ -4,8 +4,6 @@
   <img src="https://github.com/user-attachments/assets/05e9a64d-338f-4a38-97e2-c8b450c8a316" alt="página principal" width="400px" />
 </div>
 
-
-
 # Gerador de Dietas Personalizadas com Google Gemini
 
 ## Introdução
@@ -80,17 +78,10 @@ Contribuições são bem-vindas! Por favor, abra um pull request com suas altera
 Este projeto está licenciado sob a licença MIT.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4b0e0f29-c2e7-44ff-a525-e4d7afd1ef1e" alt="página principal" width="400px" />
+  <img src="https://github.com/user-attachments/assets/4b0e0f29-c2e7-44ff-a525-e4d7afd1ef1e" alt="página principal" width="300px" />
+
+  <img src="https://github.com/user-attachments/assets/e2353693-bce7-4de3-b461-143445167d68" alt="página principal" width="300px" />
+
+  <img src="https://github.com/user-attachments/assets/4d8715fc-ddf7-4e4e-9aea-2576831e4e48" alt="página principal" width="300px" />
  
 </div>
-
-
-
-
-![Step2](https://github.com/user-attachments/assets/e2353693-bce7-4de3-b461-143445167d68)
-
-
-
-![Diet](https://github.com/user-attachments/assets/4d8715fc-ddf7-4e4e-9aea-2576831e4e48)
-
-

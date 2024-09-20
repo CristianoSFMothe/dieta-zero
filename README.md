@@ -1,6 +1,9 @@
 <h1 align="center">Dieta Zero</h1>
  
-<img src="https://github.com/user-attachments/assets/05e9a64d-338f-4a38-97e2-c8b450c8a316" alt="página principal" width="400px"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/05e9a64d-338f-4a38-97e2-c8b450c8a316" alt="página principal" width="400px" />
+</div>
+
 
 
 # Gerador de Dietas Personalizadas com Google Gemini
@@ -76,10 +79,16 @@ Contribuições são bem-vindas! Por favor, abra um pull request com suas altera
 
 Este projeto está licenciado sob a licença MIT.
 
-![Step1](https://github.com/user-attachments/assets/4b0e0f29-c2e7-44ff-a525-e4d7afd1ef1e)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4b0e0f29-c2e7-44ff-a525-e4d7afd1ef1e" alt="página principal" width="400px" />
+ 
+</div>
 
 
-![Step2](https://github.com/user-attachments/assets/643a6d83-75d5-42dc-aeda-dacf4924b44b)
+![Step1]()
+
+
+
 
 
 ![Diet](https://github.com/user-attachments/assets/92751290-f274-4f5f-a3da-4b34a00418ec)

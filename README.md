@@ -1,8 +1,6 @@
-# Dieta Zero
-
-
+<h1 align="center">Dieta Zero</h1>
  
-![Home](https://github.com/user-attachments/assets/05e9a64d-338f-4a38-97e2-c8b450c8a316)
+<img src="https://github.com/user-attachments/assets/05e9a64d-338f-4a38-97e2-c8b450c8a316" alt="página principal" width="400px"/>
 
 
 # Gerador de Dietas Personalizadas com Google Gemini

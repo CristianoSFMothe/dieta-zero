@@ -85,10 +85,12 @@ Este projeto está licenciado sob a licença MIT.
 </div>
 
 
-![Step1]()
+
+
+![Step2](https://github.com/user-attachments/assets/e2353693-bce7-4de3-b461-143445167d68)
 
 
 
+![Diet](https://github.com/user-attachments/assets/4d8715fc-ddf7-4e4e-9aea-2576831e4e48)
 
 
-![Diet](https://github.com/user-attachments/assets/92751290-f274-4f5f-a3da-4b34a00418ec)

@@ -1,14 +1,14 @@
 import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native'
-import { colors } from '../../constants/colors';
-import { Header } from '../../components/header';
-import { Input } from '../../components/input'
+import { colors } from '@/constants/colors';
+import { Header } from '@/components/header';
+import { Input } from '@/components/input'
 import { router } from 'expo-router'
 
 import  { z } from 'zod'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useForm } from 'react-hook-form'
 
-import { useDataStore } from '../../store/data'
+import { useDataStore } from '@/store/data'
 
 const schema = z.object({
   name: z.string().min(1, { message: 'O nome é obrigatório.'}),

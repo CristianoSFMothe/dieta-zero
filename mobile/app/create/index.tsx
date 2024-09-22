@@ -1,11 +1,14 @@
 import { View, Text, StyleSheet, Pressable, ScrollView } from "react-native";
-import { colors } from "../../constants/colors";
+import { colors } from "@/constants/colors";
 
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import { Header } from "@/components/header";
 import { Select } from "@/components/input/select";
+
+import { useDataStore } from "../../store/data";
+import { router } from "expo-router";
 
 const schema = z.object({
   gender: z.string().min(1, { message: "O sexo é obrigatório." }),
@@ -23,6 +26,8 @@ export default function index() {
   } = useForm<FormData>({
     resolver: zodResolver(schema),
   });
+
+  const setPageTwo = useDataStore(state => state.setPageTwo);
 
   const genderOptions = [
     { label: "Masculino", value: "masculino" },
@@ -56,7 +61,14 @@ export default function index() {
   ];
 
   const handleCreate = (data: FormData) => {
-    console.log(data)
+    setPageTwo({
+      level: data.level,
+      gender: data.gender,
+      objective: data.objective,
+    })
+
+    router.push('/nutrition')
+
   }
 
   return (

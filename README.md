@@ -52,14 +52,20 @@ git clone https://github.com/CristianoSFMothe/dieta-zero
 cd seu-repositorio
 npm install
 ```
+📂 Instalando as dependências do Node no Backend
+
+```bash
+cd backend
+npm install
+```
 
 📌 **3. Crie um arquivo `.env` na raiz do projeto e adicione sua API Key do Gemini:**  
 
 ```bash
-GEMINI_API_KEY=sua_api_key
+API_KEY=sua_api_key
 ```
 
-📌 **4. Crie um script para desenvolvimento:**  
+📌 **4. Scripts disponíveis para o backend:**  
 
 ```json
 "scripts": {
@@ -71,6 +77,27 @@ GEMINI_API_KEY=sua_api_key
 
 ```bash
 npm run dev
+```
+
+📱 Instalando as dependências do Node no Mobile
+
+```bash
+cd mobile
+npm install
+```
+
+📌 Scripts disponíveis para o mobile:
+
+```bash
+"scripts": {
+    "start": "expo start",
+    "reset-project": "node ./scripts/reset-project.js",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest --watchAll",
+    "lint": "expo lint"
+}
 ```
 
 ## 🚀 Utilização  

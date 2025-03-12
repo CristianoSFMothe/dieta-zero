@@ -1,4 +1,4 @@
-interface MealsProps{
+interface RefeicoesProps{
   horario: string;
   nome: string;
   alimentos: string[];
@@ -11,6 +11,7 @@ export interface Data {
   altura: number;
   peso: number;
   objetivo: number;
-  refeicoes: MealsProps[];
+  refeicoes: RefeicoesProps[];
   suplementos: string[];
 }
+

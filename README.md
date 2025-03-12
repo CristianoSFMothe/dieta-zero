@@ -34,7 +34,7 @@ Para utilizar a API do Google Gemini, siga os passos abaixo para obter sua API K
 4️⃣ **Caso não tenha um projeto**  
    - Se não houver um projeto criado, será criado um projeto padrão no Google Cloud para obter a API Key.  
 
-  ![image](https://github.com/user-attachments/assets/5df0571d-1408-4d44-89c1-6bf0ce7af6ec)
+  ![image](https://github.com/user-attachments/assets/f4bb55b3-c516-46a6-a1c3-9f79806cb03c)
 
 Após obter sua API Key, copie e cole no arquivo `.env` do seu projeto conforme o próximo passo.  
 
